@@ -6,7 +6,7 @@ import drone1 from './Images/drone01.gif'
 export default function ConpOne() {
     return (
         <>
-        <section class="hero is-large is-black">
+        <section class="hero is-medium is-black">
             <div class="hero-body">
                 <p class="title">
                     <img className="main-image" src={mainimage3} alt="" srcset="" />
@@ -15,9 +15,9 @@ export default function ConpOne() {
                 <div className="img-head-container">
 
                 <span className="conpone-head">Trendius&reg; CMX </span> <img className="conpone-vedio" src={drone1} alt="drone picture" /> 
-                </div>
+                </div><br />
 
-                <span className="conpone-head2">Always Within Earshot</span>
+                <div className="conpone-head2">Always Within Earshot</div>
                 </p>
             </div>
         </section>

@@ -9,7 +9,7 @@ import feature6 from './Images/feature6.png'
 export default function CompTwo() {
     return (
         <>
-        <section className="hero is-large is-black">
+        <section className="hero is-medium is-black">
             <div className="hero-body">
         <div className="tile is-ancestor">
                     <div className="tile is-parent">
