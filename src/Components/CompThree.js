@@ -5,7 +5,7 @@ import mainimage2 from './Images/mainimage2.png'
 export default function CompThree() {
     return (
         <>
-             <section className="hero is-large is-light">
+             <section className="hero is-small is-light">
             <div className="hero-body">
             <nav class="navbar" role="navigation" aria-label="main navigation">
 
