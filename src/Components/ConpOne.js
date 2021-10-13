@@ -6,7 +6,7 @@ import drone1 from './Images/drone01.gif'
 export default function ConpOne() {
     return (
         <>
-        <section class="hero is-medium is-black">
+        <section class="hero is-small is-black">
             <div class="hero-body">
                 <p class="title">
                     <img className="main-image" src={mainimage3} alt="" srcset="" />
